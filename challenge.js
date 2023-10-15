@@ -1,2 +1,3 @@
-// Good Luck! You got this 💪🏾
-// Write your code here.
+const bill = 300;
+
+if (bill)

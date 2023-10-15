@@ -7,3 +7,4 @@ Aisha wants to build a very simple tip calculator for whenever she goes eating i
 2. Print a string to the console containing the bill value, the tip, and the final value (bill + tip). Example: *'The bill was 275, the tip was 41.25, and the total value 316.25'*
 
 Good Luck 😀
+ 
