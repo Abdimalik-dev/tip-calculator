@@ -1,7 +1,7 @@
 
  
 
-let bill = 275;       //  second 22222
+let bill = 275;       
 let tip = 0.15;
 
 if (bill >=50 && bill<=300){
